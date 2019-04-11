@@ -1,0 +1,15 @@
+
+body 
+{
+background-image:url("fon.png");
+}
+#wrapper
+{
+width: 600px;
+margin: 0 auto;
+}
+
+canvas
+{
+cursor:none; // убирает курсор с игрового поля
+}

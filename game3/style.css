@@ -1,0 +1,14 @@
+body
+{
+	background: black;
+}
+#w
+{
+width: 600px;
+margin: 0 auto;
+}
+
+canvas
+{
+cursor:none; // убирает курсор с игрового поля
+}
