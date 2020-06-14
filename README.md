@@ -1,2 +1,2 @@
-# my_project
+# An example of HTML
 my code
